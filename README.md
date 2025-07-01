@@ -1,7 +1,7 @@
 # Hi there, I'm bohemian0966 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=7373B9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Tech+Writer+%26+Developer;GDG+on+Campus+Tech+Lead" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=7373B9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Tech+Writer+%26+Developer;GDG+on+Campus+NTPU+Tech+Lead" alt="Typing SVG" />
 </div>
 
 ## 🎓 About My University Journey
