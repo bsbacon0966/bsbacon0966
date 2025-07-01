@@ -4,19 +4,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=7373B9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Tech+Writer+%26+Developer;GDG+NTPU+Tech+Lead" alt="Typing SVG" />
 </div>
 
+---
 ## 🎓 About My University Journey
-
-> 記錄我在大學期間的學習歷程、技術探索與知識分享
 
 - 🌱 **現在正在學習**: Flutter , C++ , FPGA , VLSI
 - 📝 **熱衷於**: 技術寫作、課程學習記錄、知識整理與分享
 - 🎯 **目標**: 嘗試挑戰「數位IC設計」與「晶片設計」
 
+---
 ## 📚 My University Portfolio
 
-
 ### 📝 技術文章 & 學習筆記
-> 記錄我的學習歷程與技術見解
 
 **📖 精選文章**:
 - **[Flutter 狀態管理深度解析]**: 比較 Provider、Bloc、Riverpod 的使用場景
@@ -28,6 +26,8 @@
 
 ### 🧠 LeetCode 解題歷程
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bohemian0966?theme=dark&font=Kanit)
+
+---
 
 ## 📖 Repository Categories
 
