@@ -38,7 +38,12 @@
 - **📓 Study-Notes**: 學習筆記與知識整理
 
 ---
+## What Am I Doing Now?
+- **整理LeetCode筆記** : 留下我的解題思路與主題整理
+- **學習VLSI與整理FPGA筆記與課程作品** : 持續精進自己針對數位IC與晶片的能力
+- **個人網站搭建** : 設計一個更適合介紹我 & 展示我的科技文章的平台
 
+---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bohemian0966&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
   
