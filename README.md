@@ -32,11 +32,6 @@
 
 ### 🧠 LeetCode 解題歷程
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bohemian0966?theme=dark&font=Kanit)
-### 📈 GitHub 活動統計
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bohemian0966&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bohemian0966&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ## 📖 Repository Categories
 
@@ -46,17 +41,6 @@
 - **📝 Tech-Articles**: 技術文章與學習心得
 - **📚 Coursework**: 課程作業與練習
 - **📓 Study-Notes**: 學習筆記與知識整理
-- **🧪 Experiments**: 技術實驗與概念驗證
-
-## 📬 Connect with Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bohemian0966)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
-</div>
 
 ---
 
