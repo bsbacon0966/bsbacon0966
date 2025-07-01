@@ -15,7 +15,6 @@
 
 ### 📝 技術文章 & 學習筆記
 
-**📖 精選文章**:
 - **[Flutter 狀態管理深度解析]**: 比較 Provider、Bloc、Riverpod 的使用場景
 - **[MySQL 效能優化實戰]**: 從索引設計到查詢優化的完整指南
 - **[雲端架構設計思維]**: GCP 服務整合的最佳實踐
@@ -31,7 +30,6 @@
 ## 📖 Repository Categories
 
 我的 GitHub 倉庫分為以下幾個類別：
-
 - **📝 Tech-Articles**: 技術文章與學習心得
 - **📚 Coursework**: 課程作業與練習
 - **📓 Study-Notes**: 學習筆記與知識整理
