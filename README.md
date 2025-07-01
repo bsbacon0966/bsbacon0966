@@ -12,22 +12,29 @@
 
 ## 📚 My University Portfolio
 
+### 🏆 獲得獎項
+
+- **2023全國大專電腦軟體設計競賽** — 佳作
+  - 與團隊參加程式競賽，在有限時間通過題目，最終獲得佳作
+  
+- **113學年 國立臺北大學師資培育中心〔教育議題TED簡報比賽〕** — 第二名 
+  - 參與師資培育課程並參與比賽，以資訊素養與品德教育為核心精神，設計演講主題：〔你愛的是AI還是演算法〕，獲得當場比賽第二名
+
+- **111-1、111-2、112-2學期 書卷獎**
+
+- **112、113學年 臺北大學電機資訊學院院長榮譽榜**
+
+
 ### [📝 我在GDG On Campus中撰寫的技術文章 ](https://github.com/bsbacon0966/GDG_on_campus_teaching_materials)
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b08b0c90-a5f9-49ad-be46-3b96cf1ba77a" width="100%">
+</p>
 
-### 我在臺北大學中的作業集合
-[📁 查看課程作業集合](https://github.com/bohemian0966/university-coursework)
+### [📁 我在臺北大學中的作業集合]()
 
-### 🧠 LeetCode 解題歷程
+### [🧠 LeetCode 解題歷程](https://github.com/bsbacon0966/A-Beginner-s-Guide-to-Leetcoding)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bohemian0966?theme=dark&font=Kanit)
-
-
-## 📖 Repository Categories
-
-我的 GitHub 倉庫分為以下幾個類別：
-- **📝 Tech-Articles**: 技術文章與學習心得
-- **📚 Coursework**: 課程作業與練習
-- **📓 Study-Notes**: 學習筆記與知識整理
 
 
 ## What Am I Doing Now?
