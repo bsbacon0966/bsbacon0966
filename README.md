@@ -26,10 +26,6 @@
 [📚 查看所有技術文章](https://github.com/bohemian0966/tech-articles)
 [📁 查看課程作業集合](https://github.com/bohemian0966/university-coursework)
 
----
-[🔗 專案展示](https://bohemian0966.github.io/data-dashboard) | [📝 技術筆記](https://github.com/bohemian0966/data-dashboard-notes)
-## 📊 Learning Progress
-
 ### 🧠 LeetCode 解題歷程
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bohemian0966?theme=dark&font=Kanit)
 
