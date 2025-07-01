@@ -24,15 +24,15 @@
 - **112、113學年 臺北大學電機資訊學院院長榮譽榜**
 
 ## 📚 My University Portfolio
-### [📝 我在GDG On Campus中撰寫的技術文章 ](https://github.com/bsbacon0966/GDG_on_campus_teaching_materials)
+### [1.我在GDG On Campus中撰寫的技術文章 ](https://github.com/bsbacon0966/GDG_on_campus_teaching_materials)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b08b0c90-a5f9-49ad-be46-3b96cf1ba77a" width="100%">
 </p>
 
-### [📁 我在臺北大學中的作業集合]()
+### [2.我在臺北大學中的作業集合]()
 
-### [🧠 LeetCode 解題歷程](https://github.com/bsbacon0966/A-Beginner-s-Guide-to-Leetcoding)
+### [3.LeetCode 解題歷程](https://github.com/bsbacon0966/A-Beginner-s-Guide-to-Leetcoding)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bohemian0966?theme=dark&font=Kanit)
 
 
