@@ -10,7 +10,6 @@
 - 📝 **熱衷於**: 技術寫作、課程學習記錄、知識整理與分享
 - 🎯 **目標**: 嘗試挑戰「數位IC設計」與「晶片設計」
 
----
 ## 📚 My University Portfolio
 
 ### 📝 技術文章 & 學習筆記
@@ -25,7 +24,6 @@
 ### 🧠 LeetCode 解題歷程
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bohemian0966?theme=dark&font=Kanit)
 
----
 
 ## 📖 Repository Categories
 
@@ -34,7 +32,7 @@
 - **📚 Coursework**: 課程作業與練習
 - **📓 Study-Notes**: 學習筆記與知識整理
 
----
+
 ## What Am I Doing Now?
 - **整理LeetCode筆記** : 留下我的解題思路與主題整理
 - **學習VLSI與整理FPGA筆記與課程作品** : 持續精進自己針對數位IC與晶片的能力
