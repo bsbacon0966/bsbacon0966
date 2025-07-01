@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=7373B9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Tech+Writer+%26+Developer;GDG+NTPU+Tech+Lead" alt="Typing SVG" />
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=bohemian0966&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
+  
+  *"Open source不僅止於程式開放，也包含了教學、知識、經驗的開放"*
+</div>
+
 ## 🎓 About My University Journey
 
 ### Overall
@@ -40,10 +46,3 @@
 - **整理LeetCode筆記** : 留下我的解題思路與主題整理
 - **學習VLSI與整理FPGA筆記與課程作品** : 持續精進自己針對數位IC與晶片的能力
 - **個人網站搭建** : 設計一個更適合介紹我 & 展示我的科技文章的平台
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bohemian0966&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
-  
-  *"Open source不僅止於程式開放，也包含了教學、知識、經驗的開放"*
-</div>
