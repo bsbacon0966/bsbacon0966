@@ -37,7 +37,6 @@
 
 我的 GitHub 倉庫分為以下幾個類別：
 
-- **🚀 Projects**: 完整的專案作品
 - **📝 Tech-Articles**: 技術文章與學習心得
 - **📚 Coursework**: 課程作業與練習
 - **📓 Study-Notes**: 學習筆記與知識整理
@@ -47,5 +46,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=bohemian0966&color=blue&style=flat-square&label=Profile+Views" alt="Profile views" />
   
-  *"學習的過程比結果更重要，記錄讓成長看得見"*
+  *"Open source不僅止於程式開放，也包含了教學、知識、經驗的開放"*
 </div>
