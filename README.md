@@ -6,11 +6,10 @@
 
 ## 🎓 About My University Journey
 
+### Overall
 - 🌱 **現在正在學習**: Flutter , C++ , FPGA , VLSI
 - 📝 **熱衷於**: 技術寫作、課程學習記錄、知識整理與分享
 - 🎯 **目標**: 嘗試挑戰「數位IC設計」與「晶片設計」
-
-## 📚 My University Portfolio
 
 ### 🏆 獲得獎項
 
@@ -24,7 +23,7 @@
 
 - **112、113學年 臺北大學電機資訊學院院長榮譽榜**
 
-
+## 📚 My University Portfolio
 ### [📝 我在GDG On Campus中撰寫的技術文章 ](https://github.com/bsbacon0966/GDG_on_campus_teaching_materials)
 
 <p align="center">
