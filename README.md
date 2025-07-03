@@ -24,10 +24,16 @@
   <img src="https://github.com/user-attachments/assets/b08b0c90-a5f9-49ad-be46-3b96cf1ba77a" width="100%">
 </p>
 
+---
+
 ### [2.我在臺北大學中的作業/筆記集合]()
+
+---
 
 ### [3.LeetCode 解題歷程](https://github.com/bsbacon0966/A-Beginner-s-Guide-to-Leetcoding)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/bohemian0966?theme=dark&font=Kanit)
+
+---
 
 ### 4.獲得獎項
 
