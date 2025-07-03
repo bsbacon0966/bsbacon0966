@@ -1,4 +1,4 @@
-# Hi there, I'm bohemian0966 👋
+# Hi there, I'm 陳子傑, aka.bsbacon0966 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=7373B9&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Tech+Writer+%26+Developer;GDG+NTPU+Tech+Lead" alt="Typing SVG" />
@@ -19,6 +19,7 @@
 
 ## 📚 My University Portfolio
 ### [1.我在GDG On Campus中撰寫的技術文章 ](https://github.com/bsbacon0966/GDG_on_campus_teaching_materials)
+內容主題 : HackMD、Python、Google AI Studio、HuggingFace、AI工具混和應用、LineBot、Firebase
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b08b0c90-a5f9-49ad-be46-3b96cf1ba77a" width="100%">
