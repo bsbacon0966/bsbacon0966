@@ -17,7 +17,7 @@
 - 📝 **熱衷於**: 技術寫作、課程學習記錄、知識整理與分享
 - 🎯 **目標**: 嘗試挑戰「數位IC設計」與「晶片設計」
 
-### Learning Skills (What I’ve Studied)
+### 🎓Learning Skills (What I’ve Studied)
 
 <p align="center">
   <a href="https://skillicons.dev">
