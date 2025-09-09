@@ -17,6 +17,14 @@
 - 📝 **熱衷於**: 技術寫作、課程學習記錄、知識整理與分享
 - 🎯 **目標**: 嘗試挑戰「數位IC設計」與「晶片設計」
 
+### Learning Skills (What I’ve Studied)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,flutter,firebase,gcp,mysql,mongodb,arduino,git,github" />
+  </a>
+</p>
+
 ## 📚 My University Portfolio
 ### [1.我在GDG On Campus中撰寫的技術文章 ](https://github.com/bsbacon0966/GDG_on_campus_teaching_materials)
 內容主題 : HackMD、Python、Google AI Studio、HuggingFace、AI工具混和應用、LineBot、Firebase
