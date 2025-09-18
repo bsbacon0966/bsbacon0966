@@ -34,7 +34,7 @@
 </p>
 
 #### 個人開發社團Linebot流程圖
-<img width="1126" height="680" alt="未命名绘图 drawio (3)" src="https://github.com/user-attachments/assets/4a89ac79-28e1-4a19-b14d-b621a15e56b9" />
+<img width="563" height="340" alt="未命名绘图 drawio (3)" src="https://github.com/user-attachments/assets/4a89ac79-28e1-4a19-b14d-b621a15e56b9" />
 
 ---
 
