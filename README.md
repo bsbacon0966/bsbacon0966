@@ -57,7 +57,7 @@
 
 | 個人課堂筆記名稱 | 連結  |
 |--------------|------|
-| 數位系統設計 | [Hack MD連結]([https://example.com/Algorithm-Notes.pdf](https://hackmd.io/@ComputerScienceNote/HyxzGoJrxx/%2FI4ZUEr9FRr6eJgNL5bDidA))  |
+| 數位系統設計 | [HackMD連結](https://hackmd.io/@ComputerScienceNote/HyxzGoJrxx/%2FI4ZUEr9FRr6eJgNL5bDidA) |
 | 數位電子電路 | [PDF 連結](https://drive.google.com/file/d/15CHNjQHfrhHbeelmApTrNZtnjazKShsF/edit)  |
 |資料結構|[PDF 連結](https://drive.google.com/file/d/1J5VdY89HsYzLgdQJwKPdREHTWlMI1Fma/edit)|
 |進階資料結構|[PDF 連結](https://drive.google.com/file/d/1lFuyB8djh0LAgGbE02eUT7-eEVe8nrMN/edit)|
