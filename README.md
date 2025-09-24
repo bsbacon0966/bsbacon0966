@@ -30,18 +30,18 @@
 內容主題 : HackMD、Python、Google AI Studio、HuggingFace、AI工具混和應用、LineBot、Firebase
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b08b0c90-a5f9-49ad-be46-3b96cf1ba77a" width="80%">
+  <img src="https://github.com/user-attachments/assets/b08b0c90-a5f9-49ad-be46-3b96cf1ba77a" width="80%" style="border: 2px solid black; border-radius: 8px;">
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/cdf38423-0979-4aa2-aa15-6345e30fc0b1" width="50%">
+  <img src="https://github.com/user-attachments/assets/cdf38423-0979-4aa2-aa15-6345e30fc0b1" width="50%" style="border: 2px solid black; border-radius: 8px;">
 </p>
 
 
 #### 個人開發社團Linebot流程圖
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a89ac79-28e1-4a19-b14d-b621a15e56b9" width="50%">
+  <img src="https://github.com/user-attachments/assets/4a89ac79-28e1-4a19-b14d-b621a15e56b9" width="50%" style="border: 2px solid black; border-radius: 8px;">
 </p>
 
 ---
