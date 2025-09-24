@@ -26,7 +26,7 @@
 </p>
 
 ## 📚 My University Portfolio
-### [1.我在GDG On Campus中撰寫的技術文章 ](https://github.com/bsbacon0966/GDG_on_campus_teaching_materials)
+### [1.我在GDG On Campus中撰寫的技術文章](https://github.com/bsbacon0966/GDG_on_campus_teaching_materials)
 內容主題 : HackMD、Python、Google AI Studio、HuggingFace、AI工具混和應用、LineBot、Firebase
 
 <p align="center">
@@ -46,7 +46,28 @@
 
 ---
 
-### [2.我在臺北大學中的作品/筆記集合]()
+### 2.我在臺北大學中的作品/筆記集合
+
+| 專案名稱 | 連結 | 簡單敘述 |
+|----------|------|-----------|
+| FPGA學習紀錄與期末專案 | [GitHub Repo](https://github.com/bsbacon0966/NTPU-FPGA-StudyCase) | 包含整個學期所有單元的學習重點，以及 12 次作業 + Final Project 的程式碼與思考邏輯紀錄 |
+| 在8086處理器上運行LCS演算法 | [GitHub Repo](https://github.com/bsbacon0966/LCS-using-8086Microprocessor) | 結合「微算機與組合語言」與「演算法」課程所學，設計可在 8086 微處理機上運行的 LCS 演算法 |
+| Flutter x Node.js 設計連線 Bingo 遊戲 | [GitHub Repo](https://github.com/bsbacon0966/BingoGame---using-flutter-and-node.js) | 透過 WebSocket + Flutter App 設計，實作區域網路內可多人連線遊玩的 Bingo 遊戲 |
+| SparkUp-Android App設計 | [GitHub Repo](https://github.com/SparkUp-App/SparkUp-Android) | 軟體工程課程專案，與團隊開發Android App，在需求分析後系統設計與團隊協作，我主要負責前端App的設計與運作邏輯，並與設計畫面的成員進行溝通協調最終操作動畫 |
+
+| 個人課堂筆記名稱 | 連結  |
+|--------------|------|
+| 數位系統設計 | [Hack MD連結]([https://example.com/Algorithm-Notes.pdf](https://hackmd.io/@ComputerScienceNote/HyxzGoJrxx/%2FI4ZUEr9FRr6eJgNL5bDidA))  |
+| 數位電子電路 | [PDF 連結](https://drive.google.com/file/d/15CHNjQHfrhHbeelmApTrNZtnjazKShsF/edit)  |
+|資料結構|[PDF 連結](https://drive.google.com/file/d/1J5VdY89HsYzLgdQJwKPdREHTWlMI1Fma/edit)|
+|進階資料結構|[PDF 連結](https://drive.google.com/file/d/1lFuyB8djh0LAgGbE02eUT7-eEVe8nrMN/edit)|
+|微算機與組合語言|[PDF 連結](https://drive.google.com/file/d/1z6qCsGJk85FpGxSq5yB5g068AetVSUhl/edit)|
+|電腦網路|[PDF 連結](https://drive.google.com/file/d/1WwuEqstOtivLIYDI3YOeSm5AtcZrDRQa/edit)|
+|多媒體技術與應用|[PDF 連結](https://drive.google.com/file/d/1kN0PtgpIi3mu8mHIty0SDcm6U8V1hHmY/edit)|
+|資料庫系統|[PDF 連結](https://drive.google.com/file/d/1vq3vWv5HoiypXhF9BjnLrp4gD8m9e-lz/edit)|
+|作業系統|[PDF 連結](https://drive.google.com/file/d/1TEW4YYWFwVoH7Ggf8vGgciFMLjX51PZW/edit)|
+|資訊安全導論|[PDF 連結](https://drive.google.com/file/d/1OxRmjQ1dt-0MpC_P1KAwZ95FobwQ6ldj/edit)|
+|計算機圖學|[PDF 連結](https://drive.google.com/file/d/1Y7cI007frEe47MTjeithscgJplzk3cfr/view?usp=drive_link) [PDF 連結](https://drive.google.com/file/d/1PeyOiL4yiPC6uaElC_06bgH4yCBCnost/view?usp=drive_link)|
 
 ---
 
