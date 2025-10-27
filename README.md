@@ -41,7 +41,7 @@
 #### 個人開發社團Linebot流程圖
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4a89ac79-28e1-4a19-b14d-b621a15e56b9" width="50%" style="border: 2px solid black; border-radius: 8px;">
+  <img src="https://github.com/user-attachments/assets/8387351d-5dbb-4119-b689-ce844089b739" width="70%" style="border: 2px solid black; border-radius: 8px;">
 </p>
 
 ---
